@@ -1,7 +1,15 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/map/index",
+    "pages/select/index",
+    "pages/verify/index",
+    "pages/scan/index",
+    "pages/user/index",
+    "pages/admin/index",
+    "pages/indentity/index",
+    "pages/count/index",
+    "pages/cost/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
